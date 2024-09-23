@@ -1,0 +1,1 @@
+web: gunicorn newDash:server
