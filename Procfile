@@ -1,1 +1,1 @@
-web: gunicorn newDash:server
+web: gunicorn app:server
